@@ -1,7 +1,7 @@
 package Acme::MyFirstModule::DPAKPERL;
 
 use 5.012004;
-use strict;
+use strict
 use warnings;
 
 require Exporter;
